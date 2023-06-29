@@ -112,7 +112,7 @@ under our control and such messages look ugly in Kibana.
 
 Better alternatives for the future might be:
 
-- Replace Logstash by something like [Vector](https://vector.dev/).
+- Replace Logstash with something like [Vector](https://vector.dev/).
 - Try harder with Logstash's Syslog plugin.
 - See
   if [Filebeat for Cloud Foundry](https://www.elastic.co/guide/en/beats/filebeat/master/running-on-cloudfoundry.html)
